@@ -29,7 +29,7 @@ public class collection_practice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList alist=new ArrayList();
-		alist.add(1);
+		alist.add("1");
 		alist.add("dk");
 		System.out.println(alist);
 		

@@ -10,9 +10,10 @@ public class fibonacci_series {
 		System.out.print(" "+sum);
 		i=j;
 		j=sum;
+		
 	}
   
-  
+	System.out.print("Fibonacci series:");
  
 	}
 
